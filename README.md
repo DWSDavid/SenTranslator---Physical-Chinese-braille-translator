@@ -10,10 +10,7 @@
 ![Hardware](https://img.shields.io/badge/hardware-Open%20Source-green.svg)
 
 
-<div align="center">
-  <img src="images/Overview.jpg" width="500" alt="SenTranslator Overview">
-  <p><i>SenTranslator - Making Digital Content Accessible for the Chinese visually impaired community</i></p>
-</div>
+
 
 ## 📖 Project Background
 
@@ -122,7 +119,7 @@ Moving beyond basic safety and navigation needs, SenTranslator aims to enhance l
 | **Testing** | Custom scripts + User feedback | ✅ Validation and continuous improvement |
 
 ### 📚 **Complete Development Documentation**
-**📖 [View Complete Development Process](Development.md)** - Detailed documentation of the entire journey from concept sketches to working prototype, including time-lapse video of the development process.
+**📖 [View Complete Development Process](Documentation.md)** - Detailed documentation of the entire journey from concept sketches to working prototype, including time-lapse video of the development process.
 
 ---
 
@@ -136,9 +133,49 @@ Moving beyond basic safety and navigation needs, SenTranslator aims to enhance l
 Use separate 5V power supply for servos!
 Connecting servos directly to Pi's 5V rail WILL damage the board!
 
+
 External 5V Power ──────────────> Breadboard + Rail
 External GND Power ─────────────> Breadboard - Rail  
 Raspberry Pi GND ──────────────> Breadboard - Rail
+```
+
+⚡ **DIY Power Supply Setup (Advanced)**
+
+We can create our **5V external power** through our common household materials:
+<div align="center">
+  <img src="images/connection.jpg" width="300" alt="Welding example at connection point">
+  <p><i>SenTranslator - Welding example at connection point</i></p>
+</div>
+
+**⚠️ DIY Power Supply Instructions:**
+```bash
+# Materials needed:
+- Discarded power cable (household electrical wire)
+- 5V USB charger head (NON-fast charging, stable output)
+- Wire strippers or scissors
+- Soldering iron and solder
+- Breadboard for distribution
+- insulating tape
+
+# Steps:
+1. Strip outer insulation from power cable
+2. Separate positive and negative wires
+3. Strip 5mm insulation from wire ends
+4. Cut USB cable from 5V charger (keep charger end)
+5. Identify +5V (usually red) and GND (usually black) wires
+6. Solder power cable wires to USB cable wires
+7. Test with multimeter: should read 5.0V ±0.1V
+8. Wrap the exposed parts of the wire with insulating tape!
+9. Connect to breadboard power rails
+
+# IMPORTANT: 
+- Use NON-variable, NON-fast charging power adapters
+- Fast chargers output unstable voltage (dangerous!)
+- Test voltage with multimeter before connecting
+- Ensure proper insulation after soldering
+
+
+
 ```
 
 #### 🔌 **Servo Connections**
