@@ -8,7 +8,11 @@
 ![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi-red.svg)
 ![Hardware](https://img.shields.io/badge/hardware-Open%20Source-green.svg)
 
----
+
+<div align="center">
+  <img src="images/Overview.jpg" width="500" alt="SenTranslator Overview">
+  <p><i>SenTranslator - Making Digital Content Accessible for Chinese visually impaired community</i></p>
+</div>
 
 ## 📖 Project Background
 
@@ -51,6 +55,15 @@ Moving beyond basic safety and navigation needs, SenTranslator aims to enhance l
 - **Filament**: PLA (recommended for ease of printing)
 - **Total Print Time**: ~8-12 hours
 - **Components**: Main frame, removable cover, Pi mount, button panel, Braille buttons
+
+
+## 🔍 Hardware Details
+
+<div align="center">
+  <img src="images/Internal view.jpg" width="400" alt="Internal Hardware View" style="margin-right: 20px;">
+  <img src="images/Braille buttons.jpg" width="400" alt="Braille Button Interface">
+  <p><i>Left: Internal hardware components | Right: Tactile Braille button interface</i></p>
+</div>
 
 ---
 
@@ -249,20 +262,47 @@ python3 tests/hardware_test.py
 python3 tests/translation_test.py
 ```
 
-### 📞 **Get Help**
-- **📚 Documentation**: Check [`docs/`](docs/) folder for detailed guides
-- **🐛 Report Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/SenTranslator/issues)
-- **💬 Community**: [Discussions](https://github.com/YOUR_USERNAME/SenTranslator/discussions)
+## 🏆 Recognition & Awards
+
+### 🎖️ **Conference Recognition**
+
+#### 7th Technology Accessibility Development Conference
+- **Role**: Youngest Conference Organizer & Outstanding Case Representative
+- **Achievement**: Featured as exemplary accessibility innovation project
+
+<div align="center">
+  <img src="images/TADC conferences.jpg" width="600" alt="TADC Conference Presentation">
+  <p><i>Presenting SenTranslator at the 7th Technology Accessibility Development Conference</i></p>
+</div>
+
+### 🧪 **Professional Validation**
+
+#### SIAA (Shenzhen Information Accessibility Association) Testing
+Independent validation and testing by accessibility professionals and blind engineers confirmed SenTranslator's effectiveness and usability in real-world scenarios.
+
+<div align="center">
+  <img src="images/Blind engineer test.jpg" width="500" alt="Professional Testing">
+  <p><i>Blind engineer conducting professional evaluation at SIAA</i></p>
+</div>
+
+#### Developer Self-Testing & Iteration
+Extensive personal testing and development cycles ensured optimal user experience and hardware reliability.
+
+<div align="center">
+  <img src="images/Self-test.jpg" width="500" alt="Development Testing">
+  <p><i>Self-testing during development phase</i></p>
+</div>
 
 ---
 
 ## 📚 Documentation
 
-- **🔤 Braille Mapping**: [`docs/chinese_braille_mapping.md`](Complete_Chinese-braille_mapping.md) - Complete conversion reference
-- **🖨️ 3D Models**: [`3D printing models/`](3D%20printing%20models/) - All printable components
-- **🔧 Hardware Guide**: [`hardware/bill_of_materials.md`](Bill_of_materials.md) - Complete parts list
-- **⚙️ Dependencies**: [`requirements.txt`](requirements.txt) - Python package requirements
-
+- **🔤 Braille Mapping**: [Complete Chinese Braille Mapping](Complete%20Chinese-braille%20mapping.md) - Complete conversion reference
+- **🖨️ 3D Models**: [3D Printing Models](3D%20printing%20models/) - All printable components
+- **🔧 Hardware Guide**: [Bill of Materials](Bill%20of%20materials.md) - Complete parts list
+- **⚙️ Dependencies**: [Requirements](requirements.txt) - Python package requirements
+- **🐍 Main Code**: [SenTranslator](SenTranslator.py) - Core application
+- 
 ---
 
 ## 🤝 Contributing
@@ -299,7 +339,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ---
 
-## 📞 Contact
+## 📞 Contact & Get help
 
 - **📧 Email**: rwu1016@qq.com/davidwurubis@gmail.com
 
