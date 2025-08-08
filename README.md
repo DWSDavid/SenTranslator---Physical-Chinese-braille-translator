@@ -14,11 +14,11 @@
 
 ## 📖 Project Background
 
-China is home to **20% of the world's visually impaired population**, yet throughout history, there has never been a dedicated daily reading device that allows them to access real-time information. **SenTranslator** was born to address this critical gap.
+China is home to **20% of the world's visually impaired population**, yet throughout history, there has never been a dedicated real-time translation device that allows them to access online and real-world information. **SenTranslator** was born to address this critical gap.
 
 Moving beyond basic safety and navigation needs, SenTranslator aims to enhance life happiness and satisfaction for the visually impaired community. Our mission is to enable equal access to technology and help individuals progress toward higher dimensions of human needs, following Maslow's hierarchy.
 
-**SenTranslator is more than just a device** - it represents the unlimited possibilities of technology for good. We're building a barrier-free solution that breaks information boundaries, using technology to illuminate the information world for the visually impaired, ensuring everyone can equally access knowledge and perceive the world.
+**SenTranslator is more than just a device** - it represents the unlimited possibilities of technology for good. We're building a barrier-free solution that breaks information boundaries, **using technology to illuminate the information world for the visually impaired, ensuring everyone can equally access knowledge and information in today's digitalized era.**
 
 **💻 Demostration video**: [SenTranslator DEMO (on Google drive)](https://drive.google.com/file/d/12AItNH-MpT0p-NMBxj15uoCDmlFkMviH/view?usp=sharing)  
 **♾️ Development process documentation**: [Record docs](Documentation.md)  
