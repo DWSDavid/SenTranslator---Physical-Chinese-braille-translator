@@ -1,6 +1,8 @@
 # 3D Models for SenTranslator
 
 This folder contains all 3D printable components for the SenTranslator hardware. 
+**Author uses Bambo Lab A1 (3D printer) + Bambu Studio.**
+
 
 ## Print Settings
 - Material: PLA recommended
