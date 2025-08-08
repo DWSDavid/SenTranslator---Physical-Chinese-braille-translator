@@ -1,7 +1,8 @@
 # SenTranslator 🦯
 
-> **World's First Chinese-to-Braille Physical Converter**  
+> **World's First Chinese-to-Braille Real-time Physical Converter**  
 > *Technology Conveys Human Warmth*
+> Innovator: Rubi Wu (DWS)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
@@ -28,7 +29,7 @@ Moving beyond basic safety and navigation needs, SenTranslator aims to enhance l
 
 🔤 **Real-time Chinese-to-Braille Translation**: Instant conversion of Chinese, English, and numbers to tactile Braille  
 🎬 **Audio-described Experience**: Enhanced multimedia content with voice feedback and enjoy audio-described movies anytime, anywhere
-📱 **Multi-input Support**: OCR image recognition, web content extraction, and direct text input  
+🎧 **Multi-input Support**: OCR image recognition, web content extraction, and direct text input  
 🖐️ **Physical Tactile Display**: Continuous Braille character display using precision electronic push rod arrays  
 🧠 **Proprietary Algorithm**: Self-developed Chinese Braille mapping system verified by accessibility institutions.
 🎵 **Text-to-Speech Integration**: Dual-mode accessibility with both tactile and audio output  
@@ -342,12 +343,13 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 ## 📞 Contact & Get help
 
 - **📧 Email**: rwu1016@qq.com/davidwurubis@gmail.com
+- **Company Website**: sensyns-cool-site.webflow.io/
 
 ---
 
 <div align="center">
 
-## 🌟 **Be a light in this world! ** 🌟
+## 🌟 **Be a light in this world! - Rubi ** 🌟
 
 **SenTranslator represents the unlimited possibilities of technology for good**
 
