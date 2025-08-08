@@ -25,7 +25,7 @@ This folder contains all 3D printable components for the SenTranslator hardware.
 - **Braille dots** (`braille buttons.stl`): Simulated Braille dots enlarged proportionally based on standard Braille ratios.
 
 ### File Locations
-All 3D models are stored in the [`3D printing models`](3D\ printing\ models) folder.
+All 3D models are stored in the [`3D printing models`](../3D%20printing%20models/) folder.
 
 ## Print Specifications
 
