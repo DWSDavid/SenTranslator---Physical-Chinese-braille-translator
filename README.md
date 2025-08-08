@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="images/Overview.jpg" width="500" alt="SenTranslator Overview">
-  <p><i>SenTranslator - Making Digital Content Accessible for Chinese visually impaired community</i></p>
+  <p><i>SenTranslator - Making Digital Content Accessible for the Chinese visually impaired community</i></p>
 </div>
 
 ## 📖 Project Background
@@ -22,6 +22,9 @@ China is home to **20% of the world's visually impaired population**, yet throug
 Moving beyond basic safety and navigation needs, SenTranslator aims to enhance life happiness and satisfaction for the visually impaired community. Our mission is to enable equal access to technology and help individuals progress toward higher dimensions of human needs, following Maslow's hierarchy.
 
 **SenTranslator is more than just a device** - it represents the unlimited possibilities of technology for good. We're building a barrier-free solution that breaks information boundaries, using technology to illuminate the information world for the visually impaired, ensuring everyone can equally access knowledge and perceive the world.
+
+**💻 Demostration video**: [SenTranslator DEMO (on Google drive)](https://drive.google.com/file/d/12AItNH-MpT0p-NMBxj15uoCDmlFkMviH/view?usp=sharing)
+**♾️ Development process documentation**: [Record docs](Documentation.md)
 
 ---
 
@@ -107,7 +110,7 @@ Button 3 (TTS): GPIO 5
 ```
 
 #### 🎧 **Audio Output**
-Connect speakers or headphones to Raspberry Pi's 3.5mm audio jack or USB audio device.
+Connect wired speakers or headphones to Raspberry Pi's 3.5mm audio jack or USB audio device.
 
 ### Step 2: 3D Printing
 
@@ -254,26 +257,31 @@ python3 main.py
 ### 🔍 **Debug Mode**
 ```bash
 # Run with verbose output
-python3 main.py --debug
+python3 SenTranslator.py --debug
 
 # Test hardware only
-python3 tests/hardware_test.py
+python3 Tests/Complete_hardware_test.py
 
-# Test translation only  
-python3 tests/translation_test.py
+# Test audio output only  
+python3 Tests/Audio_output_test.py
+
+# Test individual servo (PWM & time period) (🔧Most common issue!)
+python3 Tests/Individual_servo_test.py
+
+
 ```
 
 ## 🏆 Recognition & Awards
 
 ### 🎖️ **Conference Recognition**
 
-#### 7th Technology Accessibility Development Conference
+#### 7th Technology Accessibility Development Conference in Beijing
 - **Role**: Youngest Conference Organizer & Outstanding Case Representative
-- **Achievement**: Featured as exemplary accessibility innovation project
+- **Achievement**: Featured as exemplary accessibility innovation project of 2025
 
 <div align="center">
   <img src="images/TADC conferences.jpg" width="600" alt="TADC Conference Presentation">
-  <p><i>Presenting SenTranslator at the 7th Technology Accessibility Development Conference</i></p>
+  <p><i>Presenting SenTranslator at the 7th Technology Accessibility Development Conference & Group photo with accessibility expert Ms.Chen </i></p>
 </div>
 
 ### 🧪 **Professional Validation**
@@ -296,14 +304,15 @@ Extensive personal testing and development cycles ensured optimal user experienc
 
 ---
 
-## 📚 Documentation
+## 📚 Main Components/Folders
 
+- **🐍 Main Code**: [SenTranslator](SenTranslator.py) - Core application
 - **🔤 Braille Mapping**: [Complete Chinese Braille Mapping](Complete%20Chinese-braille%20mapping.md) - Complete conversion reference
 - **🖨️ 3D Models**: [3D Printing Models](3D%20printing%20models/) - All printable components
 - **🔧 Hardware Guide**: [Bill of Materials](Bill%20of%20materials.md) - Complete parts list
 - **⚙️ Dependencies**: [Requirements](requirements.txt) - Python package requirements
-- **🐍 Main Code**: [SenTranslator](SenTranslator.py) - Core application
-- 
+- **⚙️ Troubleshooting**: [Trouble shooting](Trouble%20shooting/) - Problem solving guide + Testing and calibration tools
+- **♾️ Development process documentation**: [Record docs](Documentation.md)
 ---
 
 ## 🤝 Contributing
@@ -334,7 +343,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ## 🙏 Acknowledgments
 
-- **🏢 Shenzhen Information Accessibility Research Institute** - Braille mapping validation and user tests opportunity
+- **🏢 Shenzhen Information Accessibility Association** - Braille mapping validation and user tests opportunity
 - **👥 Visually Impaired Beta Testers** - Invaluable feedback and real-world testing
 - **🥧 Raspberry Pi Foundation** - Providing the robust computing platform
 
@@ -342,8 +351,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ## 📞 Contact & Get help
 
-- **📧 Email**: rwu1016@qq.com/davidwurubis@gmail.com
-- **Company Website**: sensyns-cool-site.webflow.io/
+- **📧 Email**: rwu1016@qq.com / davidwurubis@gmail.com
+- **Company Website**: [SenSyn's official website](sensyns-cool-site.webflow.io/)
 
 ---
 
@@ -361,4 +370,4 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ---
 
-*Project Status: Production Ready | Last Updated: March 2024 | Contributors Welcome*
+*Project Status: Production Ready | Last Updated: August 2025 | Contributors Welcome*
