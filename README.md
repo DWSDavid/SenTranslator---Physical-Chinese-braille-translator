@@ -24,7 +24,7 @@ Moving beyond basic safety and navigation needs, SenTranslator aims to enhance l
 **SenTranslator is more than just a device** - it represents the unlimited possibilities of technology for good. We're building a barrier-free solution that breaks information boundaries, using technology to illuminate the information world for the visually impaired, ensuring everyone can equally access knowledge and perceive the world.
 
 **💻 Demostration video**: [SenTranslator DEMO (on Google drive)](https://drive.google.com/file/d/12AItNH-MpT0p-NMBxj15uoCDmlFkMviH/view?usp=sharing)  
-**♾️ Development process documentation**: [Record docs](Documentation.md)
+**♾️ Development process documentation**: [Record docs](Documentation.md)  
 **♾️ Video record of R&D process**: [Work process video (on Google drive)](https://drive.google.com/file/d/1OL8FtUZKKpxsALrEq_6zbMSdz4fQJl23/view?usp=sharing)
 
 ---
@@ -361,13 +361,13 @@ Extensive personal testing and development cycles ensured optimal user experienc
 
 ## 📚 Main Components/Folders
 
-- **🐍 Main Code**: [SenTranslator](SenTranslator.py) - Core application
-- **🔤 Braille Mapping**: [Complete Chinese Braille Mapping](Complete%20Chinese-braille%20mapping.md) - Complete conversion reference
-- **🖨️ 3D Models**: [3D Printing Models](3D%20printing%20models/) - All printable components
-- **🔧 Hardware Guide**: [Bill of Materials](Bill%20of%20materials.md) - Complete parts list
-- **⚙️ Dependencies**: [Requirements](requirements.txt) - Python package requirements
-- **⚙️ Troubleshooting**: [Trouble shooting](Trouble%20shooting/) - Problem solving guide + Testing and calibration tools
-- **♾️ Development process documentation**: [Record docs](Documentation.md)
+- **🐍 Main Code**: [SenTranslator](SenTranslator.py) - Core application  
+- **🔤 Braille Mapping**: [Complete Chinese Braille Mapping](Complete%20Chinese-braille%20mapping.md) - Complete conversion reference  
+- **🖨️ 3D Models**: [3D Printing Models](3D%20printing%20models/) - All printable components  
+- **🔧 Hardware Guide**: [Bill of Materials](Bill%20of%20materials.md) - Complete parts list  
+- **⚙️ Dependencies**: [Requirements](requirements.txt) - Python package requirements  
+- **⚙️ Troubleshooting**: [Trouble shooting](Trouble%20shooting/) - Problem solving guide + Testing and calibration tools  
+- **♾️ Development process documentation**: [Record docs](Documentation.md) - from scratch to prototype 
 ---
 
 ## 🤝 Contributing
