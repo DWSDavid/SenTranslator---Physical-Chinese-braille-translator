@@ -13,7 +13,7 @@ This folder contains all 3D printable components for the SenTranslator hardware.
 ## Components Overview
 
 ### 🏠 Enclosure Parts
-- **Main Frame** (`3D printing models/main_frame.stl`): Primary housing structure
+- **Main Frame** [📥 Download](3D%20printing%20models/main%20frame.stl): Primary housing structure
 - **Top Cover** (`sentranslator_top_cover.stl`): Removable access panel
 
 ### ⚙️ Internal Components  
