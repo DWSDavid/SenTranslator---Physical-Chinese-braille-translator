@@ -1,7 +1,7 @@
 # SenTranslator 🦯
 
 > **World's First Chinese-to-Braille Real-time Physical Converter**  
-> *Technology Conveys Human Warmth*
+> *"Technology Conveys Human Warmth"*  
 > Innovator: Rubi Wu (DWS)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -23,7 +23,7 @@ Moving beyond basic safety and navigation needs, SenTranslator aims to enhance l
 
 **SenTranslator is more than just a device** - it represents the unlimited possibilities of technology for good. We're building a barrier-free solution that breaks information boundaries, using technology to illuminate the information world for the visually impaired, ensuring everyone can equally access knowledge and perceive the world.
 
-**💻 Demostration video**: [SenTranslator DEMO (on Google drive)](https://drive.google.com/file/d/12AItNH-MpT0p-NMBxj15uoCDmlFkMviH/view?usp=sharing)
+**💻 Demostration video**: [SenTranslator DEMO (on Google drive)](https://drive.google.com/file/d/12AItNH-MpT0p-NMBxj15uoCDmlFkMviH/view?usp=sharing)  
 **♾️ Development process documentation**: [Record docs](Documentation.md)
 
 ---
@@ -31,10 +31,10 @@ Moving beyond basic safety and navigation needs, SenTranslator aims to enhance l
 ## ✨ Core Features
 
 🔤 **Real-time Chinese-to-Braille Translation**: Instant conversion of Chinese, English, and numbers to tactile Braille  
-🎬 **Audio-described Experience**: Enhanced multimedia content with voice feedback and enjoy audio-described movies anytime, anywhere
+🎬 **Audio-described Experience**: Enhanced multimedia content with voice feedback and enjoy audio-described movies anytime, anywhere  
 🎧 **Multi-input Support**: OCR image recognition, web content extraction, and direct text input  
 🖐️ **Physical Tactile Display**: Continuous Braille character display using precision electronic push rod arrays  
-🧠 **Proprietary Algorithm**: Self-developed Chinese Braille mapping system verified by accessibility institutions.
+🧠 **Proprietary Algorithm**: Self-developed Chinese Braille mapping system verified by accessibility institutions.  
 🎵 **Text-to-Speech Integration**: Dual-mode accessibility with both tactile and audio output  
 
 ---
