@@ -1,4 +1,4 @@
-# SenTranslator 🦯
+# SenTranslator ♾️📖
 
 > **World's First Chinese-to-Braille Real-time Physical Converter**  
 > *"Technology Conveys Human Warmth"*  
@@ -25,6 +25,7 @@ Moving beyond basic safety and navigation needs, SenTranslator aims to enhance l
 
 **💻 Demostration video**: [SenTranslator DEMO (on Google drive)](https://drive.google.com/file/d/12AItNH-MpT0p-NMBxj15uoCDmlFkMviH/view?usp=sharing)  
 **♾️ Development process documentation**: [Record docs](Documentation.md)
+**♾️ Video record of R&D process**: [Work process video (on Google drive)](https://drive.google.com/file/d/1OL8FtUZKKpxsALrEq_6zbMSdz4fQJl23/view?usp=sharing)
 
 ---
 
@@ -68,6 +69,60 @@ Moving beyond basic safety and navigation needs, SenTranslator aims to enhance l
   <img src="images/Braille buttons.jpg" width="400" alt="Braille Button Interface">
   <p><i>Left: Internal hardware components | Right: Tactile Braille button interface</i></p>
 </div>
+
+
+---
+## 🎨 Solo Development Journey
+
+**SenTranslator is the result of complete individual development** - Design, Engineering, Programming, Testing, Iterating
+
+### 🔥 **100% Solo Achievement**
+- ✅ **Conceptual Design**: Hand-drawn sketches and ideation on iPad Procreate
+- ✅ **3D Modeling**: From simple Shapr3D concepts to precision Rhino engineering
+- ✅ **Manufacturing**: Personal 3D printing and assembly with Bambu Studio
+- ✅ **Software Engineering**: Complete codebase and Chinese Braille algorithms
+- ✅ **Hardware Integration**: Circuit design, component selection, and assembly
+- ✅ **User Testing**: Field validation with visually impaired community
+- ✅ **Iteration & Refinement**: Continuous improvement based on real-world feedback
+
+### 🎯 **Development Phases**
+
+<div align="center">
+  <img src="images/2D1.png" width="200" alt="Initial Sketches">
+  <img src="images/2D2.png" width="200" alt="Concept Refinement">
+  <img src="images/Modelling1.png" width="200" alt="3D Modeling">
+</div>
+<p align="center"><i>Evolution from initial sketches to 3D modeling</i></p>
+
+<div align="center">
+  <img src="images/Modelling2.png" width="200" alt="Precision Engineering">
+  <img src="images/3D print1.png" width="200" alt="3D Printing">
+  <img src="images/Assemble1.png" width="200" alt="Assembly Process">
+</div>
+<p align="center"><i>Professional engineering to physical manufacturing</i></p>
+
+<div align="center">
+  <img src="images/Assemble2.png" width="200" alt="Complete Assembly">
+  <img src="images/Test1.png" width="200" alt="Testing Phase">
+  <video width="200" height="150" controls>
+    <source src="images/work record.mp4" type="video/mp4">
+    <img src="images/work-record-thumbnail.jpg" alt="Development Time-lapse">
+  </video>
+</div>
+<p align="center"><i>Final assembly, testing, and complete development time-lapse</i></p>
+
+### 🛠️ **Tools & Technologies Mastered**
+| Phase | Primary Tools | Achievement |
+|-------|---------------|-------------|
+| **Conceptual Design** | iPad Pro + Procreate | ✅ Initial sketches and ideation |
+| **3D Modeling** | Shapr3D → Rhino 3D | ✅ From concept to engineering precision |
+| **Manufacturing** | Bambu Studio + 3D Printer | ✅ Physical prototyping and iteration |
+| **Assembly** | Hand tools + Electronics | ✅ Mechanical and electrical integration |
+| **Programming** | Python + Raspberry Pi | ✅ Complete software stack development |
+| **Testing** | Custom scripts + User feedback | ✅ Validation and continuous improvement |
+
+### 📚 **Complete Development Documentation**
+**📖 [View Complete Development Process](Development.md)** - Detailed documentation of the entire journey from concept sketches to working prototype, including time-lapse video of the development process.
 
 ---
 
@@ -358,7 +413,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 <div align="center">
 
-## 🌟 **Be a light in this world! - Rubi ** 🌟
+## 🌟 Be a light in this world! - Rubi 🌟
 
 **SenTranslator represents the unlimited possibilities of technology for good**
 
