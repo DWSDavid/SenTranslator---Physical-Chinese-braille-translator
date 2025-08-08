@@ -1,1 +1,8 @@
-
+RPi.GPIO>=0.7.0
+gpiozero>=1.6.0
+pypinyin>=0.44.0
+baidu-aip>=4.16.0
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+pytesseract>=0.3.8
+Pillow>=8.0.0
