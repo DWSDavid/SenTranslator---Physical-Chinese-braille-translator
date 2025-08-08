@@ -13,15 +13,19 @@ This folder contains all 3D printable components for the SenTranslator hardware.
 ## Components Overview
 
 ### 🏠 Enclosure Parts
-- **Main Frame** [📥 Download](3D%20printing%20models/main%20frame.stl): Primary housing structure
-- **Top Cover** (`sentranslator_top_cover.stl`): Removable access panel
+- **Main Frame** (`main frame.stl`): Primary housing structure
+- **Top Cover** (`removable cover.stl`): Removable access panel, allowing you to revise anything inside the machine
 
 ### ⚙️ Internal Components  
-- **Pi Mount** (`raspberry_pi_4b_mount.stl`): Raspberry Pi 4B mounting bracket
+- **Pi Mount** (`Pi mount.stl`): Raspberry Pi 4B mounting bracket
 
 ### 🔘 User Interface
-- **Button Panel** (`button_panel_3holes.stl`): Control panel with 3 tactile button holes
-- **Braille Buttons** (`button_braille_*.stl`): Individual buttons with Braille markings
+- **Button Panel** (`braille buttons cover.stl`): Control panel with 3 tactile button holes
+- **Braille Buttons** (`braille buttons.stl`): Individual buttons with Braille markings (button 1-3)
+- **Braille dots** (`braille buttons.stl`): Simulated Braille dots enlarged proportionally based on standard Braille ratios.
+
+### File Locations
+All 3D models are stored in the [`3D printing models`](3D\ printing\ models) folder.
 
 ## Print Specifications
 
